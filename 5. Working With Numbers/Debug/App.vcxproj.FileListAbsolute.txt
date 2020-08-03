@@ -1,0 +1,2 @@
+C:\Users\micha\Desktop\C-Projects\5. Working With Numbers\Debug\App.exe
+C:\Users\micha\Desktop\C-Projects\5. Working With Numbers\Debug\App.pdb
