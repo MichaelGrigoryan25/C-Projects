@@ -1,17 +1,18 @@
 #include <iostream>
 #include <cmath>
+#include <string> // Library to work with strings
 
 using namespace std;
 
 int main()
 {
-	int age;
+	string name;
 
-	cout << "Enter your age: ";					 // Returning the message
-
-	cin >> age;									 // Asking the user for his age
-
-	cout << "You are " << age << " years old";   // Returning the sentence
+	cout << "Enter your name: ";
+	
+	getline(cin, name); // getline() from <string> module
+	
+	cout << "Hello " << name;
 
 	return 0;
 }

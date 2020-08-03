@@ -1,0 +1,2 @@
+C:\Users\micha\Desktop\C-Projects\7. Getting User Input\Debug\App.exe
+C:\Users\micha\Desktop\C-Projects\7. Getting User Input\Debug\App.pdb
