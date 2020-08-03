@@ -1,11 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Data Types",
-    "\\Hello World",
-    "\\Variables",
-    "\\Working With Strings"
+    "\\5. Working With Numbers"
   ],
-  "SelectedNode": "\\Hello World\\App.sln",
+  "SelectedNode": "\\5. Working With Numbers\\Source.cpp",
   "PreviewInSolutionExplorer": false
 }
