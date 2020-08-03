@@ -1,2 +1,0 @@
-C:\Users\micha\Desktop\C-Projects\1. Hello World\x64\Debug\App.exe
-C:\Users\micha\Desktop\C-Projects\1. Hello World\x64\Debug\App.pdb
