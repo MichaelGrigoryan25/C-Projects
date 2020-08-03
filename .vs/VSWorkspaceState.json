@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\4. Working With Strings",
-    "\\5. Working With Numbers"
+    "\\5. Working With Numbers",
+    "\\6. Using cmath Module"
   ],
-  "SelectedNode": "\\5. Working With Numbers\\Source.cpp",
+  "SelectedNode": "\\6. Using cmath Module",
   "PreviewInSolutionExplorer": false
 }

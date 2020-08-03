@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
 	  ///////////////////////////////////////
-	 //     Working With Numbers          //
+	 //       Working With Numbers        //
 	///////////////////////////////////////
 
 	cout << 40 << endl;			  // Will print 40
