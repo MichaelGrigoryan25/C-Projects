@@ -1,2 +1,0 @@
-C:\Users\micha\Desktop\App\x64\Debug\App.exe
-C:\Users\micha\Desktop\App\x64\Debug\App.pdb
