@@ -1,13 +1,9 @@
 #include <iostream>
 
 using namespace std;
-// This block will get executed first. Then eveything in it.
 int main()
 {
 
-    ///////////////////////////////////////
-   //          Using Variables          //
-  ///////////////////////////////////////
   string MyName;
   int MyAge;
 

@@ -1,12 +1,8 @@
 #include <iostream>
 
 using namespace std;
-// This block will get executed first. Then eveything in it.
 int main()
 {
-    ///////////////////////////////////////
-   //            Data Types             //
-  ///////////////////////////////////////
 
   char grade = 'A';                    // Character
   string phrase = "Michael Grigoryan"; // String
