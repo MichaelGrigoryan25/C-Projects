@@ -21,14 +21,32 @@ int main()
 		tall = false;
 	}
 
-	if(gender=="Male" && tall)
+	if(gender=="Male" && tall) // Both Should Be True
 	{
 		cout << "You're a tall Male";
 	}
+	else if (gender=="Female" && tall) {
+		cout << "You're a tall Female";
+	}
 	else
 	{
-		cout << "You're short and not a male";
+		cout << "You're short and not a male or female";
 	}
 
 	return 0;
 }
+
+///////////////
+// IMPORTANT //
+///////////////
+
+//if(arg1 && arg2) 
+//{
+	//cout << "Hello";
+//}	//both args should be true in order to print hello
+
+//if(arg1 || arg2) 
+//{
+//	cout << "Hello";
+//}	// One arg should be true in order to print hello
+

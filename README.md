@@ -1,1 +1,1 @@
-###### You only will need to run Source.cpp files
+###### Start learning from folder 01. Read the explanation comments to get a better idea of how everything in the program works. You only will need to run <u>Source.cpp files</u>. Feel free to open a new issue or pull request if you found something wrong.
