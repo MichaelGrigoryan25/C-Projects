@@ -1,0 +1,2 @@
+C:\Users\micha\Desktop\CP\15. Building a Better Calculator\Debug\App.exe
+C:\Users\micha\Desktop\CP\15. Building a Better Calculator\Debug\App.pdb
