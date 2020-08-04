@@ -1,0 +1,2 @@
+C:\Users\micha\Desktop\CP\18. Building a Guessing Game\Debug\App.exe
+C:\Users\micha\Desktop\CP\18. Building a Guessing Game\Debug\App.pdb
