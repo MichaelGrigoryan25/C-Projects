@@ -20,7 +20,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{3E511A00-4A0E-425A-902B-533715783CFD}</ProjectGuid>
+    <ProjectGuid>{5BC9D3B9-89E3-4E55-905B-C8A329E017B7}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
