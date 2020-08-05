@@ -5,14 +5,32 @@ int main()
 {
 	int secret = 10;
 	int guess{};
+	int guessCount = 0;
+	int guessLimit = 3;
+	bool oog = false; // Out of guesses
 
-	while (secret != guess)
+	while (secret != guess && !oog) 
 	{
-		cout << "Enter the Number: ";
-		cin >> guess;
+		if(guessCount < guessLimit)
+		{
+			cout << "Enter the Number: ";
+			cin >> guess;
+			guessCount++;
+		}
+		else {
+			oog = true;
+		}
+
 	};
 
-	cout << "You Win!";
+	if (oog)
+	{
+		cout << "You Lose";
+	}
+	else
+	{
+		cout << "You Win!";
+	}
 
 	return 0;
 }
