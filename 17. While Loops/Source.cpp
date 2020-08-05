@@ -13,7 +13,8 @@ int main()
 	}
 
 	// Do While Loop (reversed)
-	do {
+	do
+	{
 		cout << index << endl;
 		index++;
 	} while (index <= 5);

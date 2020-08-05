@@ -17,6 +17,6 @@ int main()
 	getline(cin, celebrity);
 
 	cout << "Roses are " << color << endl;
-	cout << pluralNoun <<" are blue" << endl;
+	cout << pluralNoun << " are blue" << endl;
 	cout << "I love " << celebrity << endl;
 }

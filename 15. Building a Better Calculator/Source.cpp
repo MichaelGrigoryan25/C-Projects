@@ -5,7 +5,7 @@ int main()
 {
 	int num1, num2;
 	char op;
-	
+
 	cout << "Enter the first number: ";
 	cin >> num1;
 
@@ -31,7 +31,7 @@ int main()
 	{
 		cout << num1 * num2;
 	}
-	else 
+	else
 	{
 		cout << "Invalid Operator";
 	}

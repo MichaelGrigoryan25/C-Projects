@@ -25,7 +25,7 @@ int getMax(int num1, int num2, int num3)
 	return result;
 }
 
-int main() 
+int main()
 {
 	cout << getMax(10, 5, 1); // Will print 10. (10 > 5 > 1)
 

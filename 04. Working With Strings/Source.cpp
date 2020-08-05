@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 
-  string Hello = "Hello";			  // Variable Hello
+  string Hello = "Hello"; // Variable Hello
 
   cout << Hello.substr(0, 3) << endl; // This will create a new string based on spcified index range (0, 3) = (1,2,3,4)
   cout << Hello.find("H") << endl;    // This is going to return the index position of letter "H"

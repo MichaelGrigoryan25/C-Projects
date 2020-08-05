@@ -9,18 +9,18 @@ int main()
 	int guessLimit = 3;
 	bool oog = false; // Out of guesses
 
-	while (secret != guess && !oog) 
+	while (secret != guess && !oog)
 	{
-		if(guessCount < guessLimit)
+		if (guessCount < guessLimit)
 		{
 			cout << "Enter the Number: ";
 			cin >> guess;
 			guessCount++;
 		}
-		else {
+		else
+		{
 			oog = true;
 		}
-
 	};
 
 	if (oog)
