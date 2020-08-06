@@ -1,2 +1,0 @@
-C:\Users\micha\Desktop\C-Projects\13. If Statement\Debug\App.exe
-C:\Users\micha\Desktop\C-Projects\13. If Statement\Debug\App.pdb

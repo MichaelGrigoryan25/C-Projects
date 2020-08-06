@@ -1,2 +1,0 @@
-C:\Users\micha\Desktop\CP\16. Switch Statements\Debug\App.exe
-C:\Users\micha\Desktop\CP\16. Switch Statements\Debug\App.pdb

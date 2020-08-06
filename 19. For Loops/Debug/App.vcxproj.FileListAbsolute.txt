@@ -1,2 +1,0 @@
-C:\Users\micha\Desktop\CP\19. For Loops\Debug\App.exe
-C:\Users\micha\Desktop\CP\19. For Loops\Debug\App.pdb

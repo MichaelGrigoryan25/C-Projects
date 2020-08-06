@@ -1,2 +1,0 @@
-C:\Users\micha\Desktop\C-Projects\10. Working With Arrays\Debug\App.exe
-C:\Users\micha\Desktop\C-Projects\10. Working With Arrays\Debug\App.pdb
