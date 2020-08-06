@@ -1,5 +1,12 @@
 # C++ Projects
 Here I store all the things that I have learned about C++ as a beginner
+
+## First things first
+Special thanks to
+[freecodecamp.org](https://freecodecamp.org) and [Mike Dane](https://mikedane.com/) for the awesome [C++ tutorial](https://www.youtube.com/watch?v=vLnPwxZdW4Y)!
+<br>
+I really suggest that you follow these guys. They create and teach awesome stuff in an comprehensive way.
+
 ## Installng the compiler
 
 ### Step 1
